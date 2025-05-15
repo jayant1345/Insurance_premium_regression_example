@@ -1,12 +1,13 @@
-
 # Insurance Premium Prediction 🚀
 
 ### Overview 🌟
+
 This repository contains a project aimed at predicting insurance premiums using **Linear Regression** and other regression models. The project leverages powerful Python libraries and includes data exploration, preprocessing, model development, and evaluation.
 
 ---
 
 ### Features 📋
+
 - **Data Analysis and Visualization**: Explore key insights from the dataset with interactive visualizations.
 - **Preprocessing Pipeline**: Handle missing values, categorical variables, and feature scaling effectively.
 - **Model Development**: Build and train regression models to predict insurance premiums accurately.
@@ -15,7 +16,9 @@ This repository contains a project aimed at predicting insurance premiums using 
 ---
 
 ### Tools and Libraries 🛠️
+
 This project uses the following tools and libraries:
+
 - **Python**: Core programming language.
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical computations.
@@ -25,6 +28,7 @@ This project uses the following tools and libraries:
 ---
 
 ### Installation 🖥️
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/your_username/insurance-premium-prediction.git
@@ -41,6 +45,7 @@ This project uses the following tools and libraries:
 ---
 
 ### Usage 📝
+
 1. Open the Jupyter Notebook file:
    ```bash
    jupyter notebook fingertips_project9_insurance_prem_linear-regression.ipynb
@@ -51,6 +56,7 @@ This project uses the following tools and libraries:
 ---
 
 ### Project Workflow 🔄
+
 1. **Exploratory Data Analysis (EDA)**:
    - Gain insights into the dataset through descriptive statistics and visualizations.
 2. **Data Preprocessing**:
@@ -63,17 +69,20 @@ This project uses the following tools and libraries:
 ---
 
 ### Results 📈
+
 - **R² Score**: Achieved 94% accuracy using the Linear Regression model.
 - **Error Metrics**:
   - Mean Absolute Error (MAE): `...`
   - Root Mean Squared Error (RMSE): `...`
 
-*(Include specific results and model insights here.)*
+_(Include specific results and model insights here.)_
 
 ---
 
 ### Contribution 🤝
+
 Contributions are welcome! If you'd like to contribute to this project:
+
 1. Fork the repository.
 2. Create a new branch:
    ```bash
@@ -92,12 +101,13 @@ Contributions are welcome! If you'd like to contribute to this project:
 ---
 
 ### License 📜
+
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 ### Connect With Me 🌐
-- **GitHub**: [@your_username](https://github.com/jayant1345)
-- **LinkedIn**: [Jayant Jayswal](https://www.linkedin.com/in/jayantkumar-jayswal-1346171b4/)
 
-Feel free to explore, contribute, and star ⭐ this repository!
+- **GitHub**: [@your_username](https://github.com/jayant1345)
+- **LinkedIn**: [Jayant Jayswal](https://www.linkedin.com/in/jayant-jayswal)
+  Feel free to explore, contribute, and star ⭐ this repository!
